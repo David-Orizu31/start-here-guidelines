@@ -12,4 +12,5 @@
   * [Unubi Mercy Ojomah](https://github.com/Omah-Mercy05/start-here-guidelines)
   * [Longji Paul Benshak](https://github.com/Leeyung1)
 * [SOLOMON Drambi](http://github.com/SUNDISKI)
-* [Elijah Simon](http://github.com/Eli4545)
+* [Elijah Simon](http://github.com/Eli4545)[Mbiplang Ardel](https://github.com/jothamardel)
+[David Orizu](https://github.com/David-Orizu31)
